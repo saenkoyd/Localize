@@ -19,5 +19,6 @@ let package = Package(
                 "Example"
             ]
         ),
-    ]
+    ],
+    swiftLanguageVersions: [.version("5.0")]
 )
